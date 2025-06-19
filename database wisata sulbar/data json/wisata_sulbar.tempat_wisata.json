@@ -1,0 +1,327 @@
+[{
+  "_id": {
+    "$oid": "6854155dbccc6fe4bc3f0222"
+  },
+  "nama": "Pulau Karampuang",
+  "lokasi": "Mamuju",
+  "kategori": "Pulau",
+  "hargaTiket": 15000,
+  "fasilitas": [
+    "Perahu Wisata",
+    "Snorkeling",
+    "Homestay"
+  ],
+  "rating": 4.7,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "6854155dbccc6fe4bc3f0223"
+  },
+  "nama": "Air Terjun Limbong Kamandang",
+  "lokasi": "Mamasa",
+  "kategori": "Air Terjun",
+  "hargaTiket": 5000,
+  "fasilitas": [
+    "Warung",
+    "Pemandian",
+    "Tempat Duduk"
+  ],
+  "rating": 4.3,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "6854155dbccc6fe4bc3f0224"
+  },
+  "nama": "Pantai Palippis",
+  "lokasi": "Polewali Mandar",
+  "kategori": "Pantai",
+  "hargaTiket": 10000,
+  "fasilitas": [
+    "Spot Foto",
+    "Warung",
+    "Kapal Wisata"
+  ],
+  "rating": 4.6,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "6854155dbccc6fe4bc3f0225"
+  },
+  "nama": "Taman Wisata Alam Mampie",
+  "lokasi": "Polewali Mandar",
+  "kategori": "Hutan Mangrove",
+  "hargaTiket": 7000,
+  "fasilitas": [
+    "Jalur Tracking",
+    "Menara Pandang"
+  ],
+  "rating": 4.4,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "6854155dbccc6fe4bc3f0226"
+  },
+  "nama": "Bukit Salabose",
+  "lokasi": "Majene",
+  "kategori": "Bukit",
+  "hargaTiket": 5000,
+  "fasilitas": [
+    "Pendakian",
+    "Spot Foto Alam"
+  ],
+  "rating": 4.2,
+  "buka": false
+},
+{
+  "_id": {
+    "$oid": "6854155dbccc6fe4bc3f0227"
+  },
+  "nama": "Gunung Buntu Liarra",
+  "lokasi": "Polewali Mandar",
+  "kategori": "Gunung",
+  "hargaTiket": 8000,
+  "fasilitas": [
+    "Camping",
+    "Panorama Alam"
+  ],
+  "rating": 4.1,
+  "buka": false
+},
+{
+  "_id": {
+    "$oid": "6854156dbccc6fe4bc3f022a"
+  },
+  "nama": "Pulau Karampuang",
+  "lokasi": "Mamuju",
+  "kategori": "Pulau",
+  "hargaTiket": 15000,
+  "fasilitas": [
+    "Perahu Wisata",
+    "Snorkeling",
+    "Homestay"
+  ],
+  "rating": 4.7,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "6854156dbccc6fe4bc3f022b"
+  },
+  "nama": "Air Terjun Limbong Kamandang",
+  "lokasi": "Mamasa",
+  "kategori": "Air Terjun",
+  "hargaTiket": 5000,
+  "fasilitas": [
+    "Warung",
+    "Pemandian",
+    "Tempat Duduk"
+  ],
+  "rating": 4.3,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "6854156dbccc6fe4bc3f022c"
+  },
+  "nama": "Pantai Palippis",
+  "lokasi": "Polewali Mandar",
+  "kategori": "Pantai",
+  "hargaTiket": 10000,
+  "fasilitas": [
+    "Spot Foto",
+    "Warung",
+    "Kapal Wisata"
+  ],
+  "rating": 4.6,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "6854156dbccc6fe4bc3f022d"
+  },
+  "nama": "Taman Wisata Alam Mampie",
+  "lokasi": "Polewali Mandar",
+  "kategori": "Hutan Mangrove",
+  "hargaTiket": 7000,
+  "fasilitas": [
+    "Jalur Tracking",
+    "Menara Pandang"
+  ],
+  "rating": 4.4,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "6854156dbccc6fe4bc3f022e"
+  },
+  "nama": "Bukit Salabose",
+  "lokasi": "Majene",
+  "kategori": "Bukit",
+  "hargaTiket": 5000,
+  "fasilitas": [
+    "Pendakian",
+    "Spot Foto Alam"
+  ],
+  "rating": 4.2,
+  "buka": false
+},
+{
+  "_id": {
+    "$oid": "6854156dbccc6fe4bc3f022f"
+  },
+  "nama": "Gunung Buntu Liarra",
+  "lokasi": "Polewali Mandar",
+  "kategori": "Gunung",
+  "hargaTiket": 8000,
+  "fasilitas": [
+    "Camping",
+    "Panorama Alam"
+  ],
+  "rating": 4.1,
+  "buka": false
+},
+{
+  "_id": {
+    "$oid": "68541677bccc6fe4bc3f0232"
+  },
+  "nama": "Pulau Karampuang",
+  "lokasi": "Mamuju",
+  "kategori": "Pulau",
+  "hargaTiket": 15000,
+  "fasilitas": [
+    "Perahu Wisata",
+    "Snorkeling",
+    "Homestay"
+  ],
+  "rating": 4.7,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "68541677bccc6fe4bc3f0233"
+  },
+  "nama": "Air Terjun Limbong Kamandang",
+  "lokasi": "Mamasa",
+  "kategori": "Air Terjun",
+  "hargaTiket": 5000,
+  "fasilitas": [
+    "Warung",
+    "Pemandian",
+    "Tempat Duduk"
+  ],
+  "rating": 4.3,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "68541677bccc6fe4bc3f0234"
+  },
+  "nama": "Pantai Palippis",
+  "lokasi": "Polewali Mandar",
+  "kategori": "Pantai",
+  "hargaTiket": 10000,
+  "fasilitas": [
+    "Spot Foto",
+    "Warung",
+    "Kapal Wisata"
+  ],
+  "rating": 4.6,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "68541677bccc6fe4bc3f0235"
+  },
+  "nama": "Taman Wisata Alam Mampie",
+  "lokasi": "Polewali Mandar",
+  "kategori": "Hutan Mangrove",
+  "hargaTiket": 7000,
+  "fasilitas": [
+    "Jalur Tracking",
+    "Menara Pandang"
+  ],
+  "rating": 4.4,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "68541677bccc6fe4bc3f0236"
+  },
+  "nama": "Bukit Salabose",
+  "lokasi": "Majene",
+  "kategori": "Bukit",
+  "hargaTiket": 5000,
+  "fasilitas": [
+    "Pendakian",
+    "Spot Foto Alam"
+  ],
+  "rating": 4.2,
+  "buka": false
+},
+{
+  "_id": {
+    "$oid": "68541677bccc6fe4bc3f0237"
+  },
+  "nama": "Gunung Buntu Liarra",
+  "lokasi": "Polewali Mandar",
+  "kategori": "Gunung",
+  "hargaTiket": 8000,
+  "fasilitas": [
+    "Camping",
+    "Panorama Alam"
+  ],
+  "rating": 4.1,
+  "buka": false
+},
+{
+  "_id": {
+    "$oid": "68541677bccc6fe4bc3f0238"
+  },
+  "nama": "Pantai Barane",
+  "lokasi": "Majene",
+  "kategori": "Pantai",
+  "hargaTiket": 10000,
+  "fasilitas": [
+    "Tempat Makan",
+    "Perahu",
+    "Toilet"
+  ],
+  "rating": 4,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "68541677bccc6fe4bc3f0239"
+  },
+  "nama": "Air Terjun Tamasapi",
+  "lokasi": "Mamuju",
+  "kategori": "Air Terjun",
+  "hargaTiket": 7000,
+  "fasilitas": [
+    "Area Piknik",
+    "Jalan Setapak",
+    "Toilet"
+  ],
+  "rating": 4.3,
+  "buka": true
+},
+{
+  "_id": {
+    "$oid": "68541685bccc6fe4bc3f023a"
+  },
+  "nama": "Pantai Dato",
+  "lokasi": "Majene",
+  "kategori": "Pantai",
+  "hargaTiket": 10000,
+  "fasilitas": [
+    "Gazebo",
+    "Tempat Parkir",
+    "Toilet"
+  ],
+  "rating": 4.5,
+  "buka": true
+}]
